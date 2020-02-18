@@ -1,3 +1,1 @@
-：
-C
-initiate fr
+本仓库用来学习git如何使用
